@@ -2,7 +2,6 @@
 
 ## Programvarebedrift
 
-- 🌍  Drognesjordet 113, 2150 Årnes
 - 🖥️  [myrseth.tech](http://www.myrseth.tech)
 - ✉️  [kontakt@myrseth.tech](mailto:kontakt@myrseth.tech)
 
