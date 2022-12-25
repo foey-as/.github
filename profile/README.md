@@ -12,5 +12,3 @@
 - <a href="https://www.linkedin.com/company/myrsethtech" target="_blank" rel="noreferrer">LinkedIn</a>
 - <a href="https://www.twitter.com/myrsethtech" target="_blank" rel="noreferrer">Twitter</a>
 - <a href="https://www.youtube.com/@myrsethtech/" target="_blank" rel="noreferrer">YouTube</a>
-- <a href="https://proff.no/selskap/myrseth-technologies/trondheim/internettdesign-og-programmering/IDQD2VW0C2C/" target="_blank" rel="noreferrer">Proff</a>
-- <a href="https://www.gulesider.no/myrseth+technologies+trondheim/169873508/bedrift" target="_blank" rel="noreferrer">Gule Sider</a>
