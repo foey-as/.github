@@ -1,4 +1,4 @@
-# ![Føy AS](logo.png 'Føy AS Logo')
+# ![Føy AS](./logo.png 'Føy AS Logo')
 
 - 🖥️  [www.foey.no](https://www.foey.no)
 - ✉️  [kontakt@foey.no](mailto:kontakt@foey.no)
