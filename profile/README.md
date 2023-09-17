@@ -1,14 +1,13 @@
-# Myrseth Technologies
+# ![Føy AS](logo.png 'Føy AS Logo')
 
-## Programvarebedrift
-
-- 🖥️  [myrseth.tech](http://www.myrseth.tech)
-- ✉️  [kontakt@myrseth.tech](mailto:kontakt@myrseth.tech)
+- 🖥️  [www.foey.no](https://www.foey.no)
+- ✉️  [kontakt@foey.no](mailto:kontakt@foey.no)
 
 ### Sosialt
-- <a href="https://www.facebook.com/myrsethtech" target="_blank" rel="noreferrer">Facebook</a>
-- <a href="https://www.github.com/myrsethtech" target="_blank" rel="noreferrer">GitHub</a>
-- <a href="http://www.instagram.com/myrsethtech" target="_blank" rel="noreferrer">Instagram</a>
-- <a href="https://www.linkedin.com/company/myrsethtech" target="_blank" rel="noreferrer">LinkedIn</a>
-- <a href="https://www.twitter.com/myrsethtech" target="_blank" rel="noreferrer">Twitter</a>
-- <a href="https://www.youtube.com/@myrsethtech/" target="_blank" rel="noreferrer">YouTube</a>
+
+- <a href="https://www.facebook.com/foeyas" target="_blank">Facebook</a>
+- <a href="https://www.github.com/foey-as" target="_blank">GitHub</a>
+- <a href="http://www.instagram.com/foey_as" target="_blank">Instagram</a>
+- <a href="https://www.linkedin.com/company/foey" target="_blank" >LinkedIn</a>
+- <a href="https://www.twitter.com/foey_as" target="_blank" >Twitter</a>
+- <a href="https://www.youtube.com/@foeyas/" target="_blank" >YouTube</a>
